@@ -1,4 +1,4 @@
 {
-    name: "QR Code Generator",
-    description: "Generates a QR code for a given string, in png, svg ..."
+    "name": "QR Code Generator",
+    "description": "Generates a QR code for a given string, in png, svg ..."
 }
