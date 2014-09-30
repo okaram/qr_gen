@@ -1,4 +1,2 @@
-# This file is used by Rack-based servers to start the application.
-
-require ::File.expand_path('../config/environment',  __FILE__)
-run Test1::Application
+require './qr_gen'
+run Sinatra::Application
